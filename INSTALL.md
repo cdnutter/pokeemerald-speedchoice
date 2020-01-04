@@ -2,7 +2,7 @@
 
 Install [**devkitARM**](http://devkitpro.org/wiki/Getting_Started/devkitARM).
 
-~~Make sure that there is an environment variable called DEVKITARM with the path of the directory before the "bin" directory containing "arm-none-eabi-as", "arm-none-eabi-cpp", "arm-none-eabi-ld" and "arm-none-eabi-objcopy".~~ I added it to `/tools/binutils` so it **should** work. The installer cannot find when creating environment variables.
+~~Make sure that there is an environment variable called DEVKITARM with the path of the directory before the "bin" directory containing "arm-none-eabi-as", "arm-none-eabi-cpp", "arm-none-eabi-ld" and "arm-none-eabi-objcopy".~~ I added it to `/tools/binutils` so it ***should*** work. The installer cannot find when creating environment variables.
 
 Then get the compiler from https://github.com/pret/agbcc and run the following commands.
 
