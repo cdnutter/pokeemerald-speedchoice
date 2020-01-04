@@ -1,5 +1,3 @@
-Follow the OS-specific instructions below.
-
 # Linux *(Ubuntu used)*
 
 Install [**devkitARM**](http://devkitpro.org/wiki/Getting_Started/devkitARM).
