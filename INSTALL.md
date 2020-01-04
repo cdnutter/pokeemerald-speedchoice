@@ -1,4 +1,4 @@
-# Linux *(Ubuntu used)*
+# Linux
 
 Install [**devkitARM**](http://devkitpro.org/wiki/Getting_Started/devkitARM).
 
