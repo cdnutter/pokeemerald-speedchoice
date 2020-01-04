@@ -1,6 +1,6 @@
 Follow the OS-specific instructions below.
 
-# Linux *(Ubuntu used)
+# Linux *(Ubuntu used)*
 
 Install [**devkitARM**](http://devkitpro.org/wiki/Getting_Started/devkitARM).
 
@@ -25,7 +25,7 @@ Finally, build the rom.
 make
 ```
 
-# Windows *(untested by me)
+# Windows *(untested by me)*
 
 Install [**devkitARM**](http://devkitpro.org/wiki/Getting_Started/devkitARM).
 
@@ -33,7 +33,7 @@ Then get the compiled tools from https://github.com/pret/pokeruby-tools. Copy th
 
 You can then build pokeemerald using `make` in the MSYS environment provided with devkitARM.
 
-# Mac *(untested by me)
+# Mac *(untested by me)*
 
 Installing pokeemerald on a Mac requires macOS >= 10.12 (Sierra or higher).
 
