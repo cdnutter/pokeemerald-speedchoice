@@ -1,8 +1,9 @@
-# Pokémon Emerald
+# Pokémon Emerald Speedchoice v1.1.3
 
 [![Build Status][travis-badge]][travis]
 
-This is a disassembly of Pokémon Emerald.
+This is a disassembly of Pokémon Emerald and construction of speedchoice.
+Speedchoice has valuable settings for speedrunning and racing. 
 
 It builds the following rom:
 
