@@ -11,7 +11,7 @@ It builds the following rom:
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
-Credit to ProjectRevoTPP, devkit team, and pret.
+Credit to ProjectRevoTPP, devkitPro team, and pret.
 
 ## See also
 
